@@ -1,4 +1,4 @@
-# 🙋 Jogo do Amigo Secreto 🙋‍♀️
+# 🙋 Challenge Amigo Secreto 🙋‍♀️
 Adicione quantos nomes desejar, depois clique em sortear e descubra qual é o seu amigo secreto!
 
 # 💡Funcionalidades
