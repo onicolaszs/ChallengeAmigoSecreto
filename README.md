@@ -25,4 +25,4 @@ O objetivo é criar uma aplicação em **HTML**, **CSS** e **JavaScript** em pro
 ## 👇Como Executar
 Acesse o link abaixo:
    ```bash
-https://jogo-do-amigo-secreto-mu.vercel.app
+https://challengeamigosecreto-omega.vercel.app
